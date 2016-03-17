@@ -1,0 +1,13 @@
+.mitch-pic {
+  width: 227px;
+  height: 300px;
+}
+
+.mitch-pic-square {
+  width: 300px;
+  height: 300px;
+}
+
+.hidden {
+  display: none;
+}
