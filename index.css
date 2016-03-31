@@ -1,3 +1,20 @@
+body {
+  margin: 0;
+  background: url(images/background1.jpg) no-repeat center center;
+}
+
+.motch-container {
+  background-image: url(images/empty_motch.png);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+  width: 200px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+
+/* Old shit */
 .mitch-pic {
   width: 227px;
   height: 300px;
